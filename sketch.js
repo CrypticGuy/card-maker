@@ -157,7 +157,7 @@ function keyPressed() {
   }
 
   function mouseRelease() {
-      offsetX = -27
-      offsetY = -27
+      offsetX = -20
+      offsetY = -20
       selected = false
   }
